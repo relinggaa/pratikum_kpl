@@ -14,3 +14,4 @@ E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul3\Project1\WinFormsApp1\obj\Debu
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul3\Project1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul3\Project1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul3\Project1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul3\Project1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json

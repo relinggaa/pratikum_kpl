@@ -25,10 +25,10 @@ namespace WinFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
        
-            string userInput = textBox1.Text;
+            string Input = textBox1.Text;
 
             
-            string message = "Halo " + userInput;
+            string message = "Halo " + Input;
 
            
             MessageBox.Show(message, "User Input", MessageBoxButtons.OK, MessageBoxIcon.Information);
